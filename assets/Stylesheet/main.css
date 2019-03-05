@@ -145,6 +145,18 @@ p {
     }
 }
 
+@media(max-width: 480px ) {
+    #btm-header .col-2 .my,
+    #btm-header .col-2 .ca {
+        width: 50%;
+    }
+    #btm-header .col-2 h2,
+    #btm-header .col-2 h3 {
+        font-size: 7px;
+        line-height: 10px;
+    }
+}
+
 #btm-header {
     margin: 5px 0px;
 }
