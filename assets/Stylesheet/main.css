@@ -390,11 +390,11 @@ p {
         width: 35%;
     }
     .menu-btn {
-        top: 27%;
+        top: 33%;
         left: 74%;
     }
     #main_navigation input[value='toggle'] {
-        top: 27%;
+        top: 33%;
         left: 74%;
     }
 }
